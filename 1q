@@ -1,0 +1,27 @@
+A simple WebUI for Anagram service
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Date:      Tue Mar 17 13:58:44 2026 -0500
+#
+# On branch main
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   .env.example
+#	new file:   .gitignore
+#	new file:   README.md
+#	new file:   jest.config.js
+#	new file:   package-lock.json
+#	new file:   package.json
+#	new file:   public/index.html
+#	new file:   src/__tests__/server.test.ts
+#	new file:   src/graphql/__tests__/resolvers.test.ts
+#	new file:   src/graphql/__tests__/typeDefs.test.ts
+#	new file:   src/graphql/resolvers/index.ts
+#	new file:   src/graphql/typeDefs/index.ts
+#	new file:   src/index.ts
+#	new file:   tsconfig.json
+#
